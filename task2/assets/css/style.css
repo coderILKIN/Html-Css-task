@@ -1,0 +1,28 @@
+img{
+    margin-left: 40%;
+}
+
+h1{
+    margin-left: 33%;
+    
+}
+
+hr{
+    margin-top: -20px;
+}
+
+h3{
+    color: orange;
+}
+
+
+hr,h3,p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+pre{
+    margin-left: 43px;
+}
+
+ 
